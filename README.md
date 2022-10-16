@@ -1,4 +1,4 @@
-## :blossom: Ooiii, eu sou Dayse!
+## :blossom: Oii, eu sou Dayse!
 
 <ul>
 <li>Cursando Ciência da Computação</li>
@@ -22,5 +22,5 @@
   <a href = "mailto:daysekelly31@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ![Snake animation](https://github.com/dayseCampos/dayseCampos/blob/output/github-contribution-grid-snake.svg)
-  
+
 </div>
