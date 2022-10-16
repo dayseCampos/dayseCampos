@@ -1,6 +1,8 @@
 ## :blossom: Oii, eu sou Dayse!
 
 <ul>
+<li>Tenho 21 anos</li>
+<li>Aprendendo javascript</li>
 <li>Cursando Ciência da Computação</li>
 <li>Banco de Dados também!</li>
 <li>Atualmente participo do Oracle Next Education e Programadores Cariocas, dois programas focados no desenvolvimento web</li>
