@@ -1,11 +1,11 @@
 ## :blossom: Oii, eu sou a Dayse!
 
 <ul>
-<li>Tenho 21 anos</li>
-<li>Aprendendo javascript</li>
-<li>Cursando Ciência da Computação</li>
-<li>Banco de Dados também!</li>
-<li>Atualmente participo do Oracle Next Education e Programadores Cariocas, dois programas focados no desenvolvimento web</li>
+<li> :birthday: Tenho 21 anos</li>
+<li> :boom: Aprendendo javascript</li>
+<li> :revolving_hearts: Cursando Ciência da Computação</li>
+<li> :dizzy: Banco de Dados também!</li>
+<li> :rocket: Atualmente participo do Oracle Next Education e Programadores Cariocas, dois programas focados no desenvolvimento web</li>
 </ul>
 <div align="center">
   <a href="https://github.com/dayseCampos">
