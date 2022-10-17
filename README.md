@@ -1,4 +1,4 @@
-## :blossom: Oii, eu sou Dayse!
+## :blossom: Oii, eu sou a Dayse!
 
 <ul>
 <li>Tenho 21 anos</li>
