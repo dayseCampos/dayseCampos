@@ -8,8 +8,7 @@
 <li> :rocket: Atualmente participo do Oracle Next Education e Programadores Cariocas, dois programas focados no desenvolvimento web</li>
 </ul>
 <div align="center">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=dayseCampos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayseCampos&layout=compact&langs_count=7&theme=radical"/>
+
   <a href="https://github.com/dayseCampos">
   
 </div>
