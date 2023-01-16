@@ -2,7 +2,7 @@
 
 <ul>
 <li> :birthday: Tenho 21 anos</li>
-<li> :boom: Aprendendo javascript</li>
+<li> :boom: Estudando React</li>
 <li> :revolving_hearts: Cursando Ciência da Computação</li>
 <li> :dizzy: Banco de Dados também!</li>
 <li> :rocket: Atualmente participo do Oracle Next Education e Programadores Cariocas, dois programas focados no desenvolvimento web</li>
