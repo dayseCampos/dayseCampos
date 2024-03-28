@@ -1,8 +1,8 @@
 # :blossom: Oii, eu sou a Dayse!
 
 <ul>
-<li> :birthday: Tenho 21 anos</li>
-<li> :boom: Estudando React</li>
+<li> :birthday: Tenho 22 anos</li>
+<li> :boom: Estudando NodeJS</li>
 <li> :revolving_hearts: Cursando Ciência da Computação</li>
 <li> :dizzy: Banco de Dados também!</li>
 <li> :rocket: Formada também no Oracle Next Education e Programadores Cariocas, dois programas focados no desenvolvimento fullstack</li>
